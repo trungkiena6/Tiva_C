@@ -1,0 +1,11 @@
+.\main.o: main.c
+.\main.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\main.o: C:\Keil\ARM\ARMCC\bin\..\include\stdbool.h
+.\main.o: C:\ti\TivaWare\inc/hw_gpio.h
+.\main.o: C:\ti\TivaWare\inc/hw_types.h
+.\main.o: C:\ti\TivaWare\inc/hw_memmap.h
+.\main.o: C:\ti\TivaWare\driverlib/sysctl.h
+.\main.o: C:\ti\TivaWare\driverlib/pin_map.h
+.\main.o: C:\ti\TivaWare\driverlib/gpio.h
+.\main.o: C:\ti\TivaWare\driverlib/timer.h
+.\main.o: C:\ti\TivaWare\driverlib/interrupt.h

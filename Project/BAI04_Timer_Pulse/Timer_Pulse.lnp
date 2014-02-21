@@ -1,0 +1,8 @@
+--cpu Cortex-M4.fp
+".\startup_tm4c123.o"
+".\main.o"
+"C:\ti\TivaWare\driverlib\rvmdk\driverlib.lib"
+--strict --scatter ".\Timer_Pulse.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Timer_Pulse.map" -o .\Timer_Pulse.axf

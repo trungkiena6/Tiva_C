@@ -1,0 +1,15 @@
+Dependencies for Project 'Timer_Int', Target 'Timer_Int': (DO NOT MODIFY !)
+F (.\startup_TM4C123.s)(0x5304DC49)(--cpu Cortex-M4.fp -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123--list .\startup_tm4c123.lst --xref -o .\output\startup_tm4c123.o --depend .\output\startup_tm4c123.d)
+F (.\main.c)(0x5306242E)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -IC:\ti\TivaWare\driverlib -IC:\ti\TivaWare\inc -IC:\ti\TivaWare-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-Drvmdk -DPART_TM4C123GH6PM -DTARGET_IS_BLIZZARD_RB1 -DTM4C123GH6PM-o .\output\main.o --omf_browse .\output\main.crf --depend .\output\main.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7C554)
+I (C:\Keil\ARM\ARMCC\include\stdbool.h)(0x51C7C554)
+I (C:\ti\TivaWare\inc\hw_gpio.h)(0x53037785)
+I (C:\ti\TivaWare\inc\hw_types.h)(0x53037785)
+I (C:\ti\TivaWare\inc\hw_memmap.h)(0x53037785)
+I (C:\ti\TivaWare\inc\hw_ints.h)(0x53037785)
+I (C:\ti\TivaWare\driverlib\sysctl.h)(0x53037778)
+I (C:\ti\TivaWare\driverlib\pin_map.h)(0x53037778)
+I (C:\ti\TivaWare\driverlib\gpio.h)(0x53037778)
+I (C:\ti\TivaWare\driverlib\interrupt.h)(0x53037778)
+I (C:\ti\TivaWare\driverlib\timer.h)(0x53037778)
+F (C:\ti\TivaWare\driverlib\rvmdk\driverlib.lib)(0x53037778)()

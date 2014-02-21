@@ -1,0 +1,12 @@
+.\output\uart_lib.c.o: Library\Uart_lib.c.c
+.\output\uart_lib.c.o: C:\Keil\ARM\ARMCC\bin\..\include\stdbool.h
+.\output\uart_lib.c.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\output\uart_lib.c.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\output\uart_lib.c.o: C:\ti\TivaWare\inc/hw_memmap.h
+.\output\uart_lib.c.o: C:\ti\TivaWare\inc/hw_types.h
+.\output\uart_lib.c.o: C:\ti\TivaWare\driverlib/gpio.h
+.\output\uart_lib.c.o: C:\ti\TivaWare\driverlib/sysctl.h
+.\output\uart_lib.c.o: C:\ti\TivaWare\driverlib/pin_map.h
+.\output\uart_lib.c.o: C:\ti\TivaWare\driverlib/interrupt.h
+.\output\uart_lib.c.o: C:\ti\TivaWare\inc/hw_ints.h
+.\output\uart_lib.c.o: C:\ti\TivaWare\driverlib/uart.h
